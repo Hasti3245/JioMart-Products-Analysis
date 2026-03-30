@@ -58,6 +58,4 @@ The cleaned dataset was used to build an interactive Power BI dashboard that pro
 - Power BI  
 - Data Visualization Techniques  
 
----
 
-## 📁 Project Structure  
