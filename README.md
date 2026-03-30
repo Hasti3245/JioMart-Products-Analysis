@@ -12,7 +12,7 @@ This project demonstrates practical skills in:
 ---
 
 ## 📂 Dataset Description  
-**Source:** JioMart product dataset  
+**Source:** Kaggle -JioMart product dataset  
 **Type:** E-commerce product data  
 
 The dataset includes information such as product names, categories, prices, and discounts. The raw data contained inconsistencies and formatting issues, which required preprocessing before analysis.  
